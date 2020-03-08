@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <dimen name="app_margin_def">16dp</dimen>
+    <dimen name="app_margin_32">32dp</dimen>
+    <dimen name="app_margin_64">64dp</dimen>
+
+    <dimen name="app_font_title">20sp</dimen>
+    <dimen name="app_font_def">16sp</dimen>
+    <dimen name="app_font_detail">14sp</dimen>
+    <dimen name="app_font_sup_detail">12sp</dimen>
+
+    <dimen name="circle_button">64dp</dimen>
+    <dimen name="rect_radius">5dp</dimen>
+    <dimen name="width_border">1dp</dimen>
+    <dimen name="height_block">64dp</dimen>
+    <dimen name="rect_purple">120dp</dimen>
+
+    <dimen name="margin_block">4dp</dimen>
+    <dimen name="empty_height">24dp</dimen>
+
+</resources>

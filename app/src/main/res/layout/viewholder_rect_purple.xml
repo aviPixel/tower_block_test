@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="empty"
+            type="com.androidtest.management.EmptyModel" />
+
+    </data>
+
+    <FrameLayout
+        android:id="@+id/mainFramePurple"
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:layout_marginTop="@dimen/margin_block">
+
+        <FrameLayout
+            android:id="@+id/frameBlockPurple"
+            android:layout_width="@dimen/rect_purple"
+            android:layout_height="@dimen/rect_purple"
+            android:layout_gravity="center"
+            android:rotation="45"
+            android:background="@drawable/rect_purple"/>
+
+    </FrameLayout>
+
+</layout>

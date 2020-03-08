@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tower Block Test</string>
+
+    <string name="label_title_countdown">Count down</string>
+    <string name="label_content_countdown">%sS</string>
+
+    <string name="label_title_all_time">Total Time</string>
+
+</resources>
